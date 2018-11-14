@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="data_structrue">Data_Structrue</h1>
+<h1 id="data_structrue">Data_Structrue</h1>
 <p>H/W of Data_Structure</p>
 <h1 id="explanation">Explanation</h1>
 <ul>
@@ -43,7 +32,4 @@
 <li>더 능동적인 코드를 위해 compare 변수를 사용하였습니다.</li>
 <li>구조체 fact는 1 이하의 숫자를 인식하고 결과를 반환할 수 있어야 합니다. 이 결과를 반환하기 위해 if문 안에 해당 코드를 구현하였습니다.</li>
 </ul>
-</div>
-</body>
 
-</html>
