@@ -15,14 +15,14 @@
 <li>Using structure and header file to read and understand easily</li>
 <li>Using ‘malloc’ and ‘scanf’ to add data dynamically</li>
 <li>Using Pointer because of the limitation of array (Array is static data. We can’t stretch it’s range dynamically)</li>
-<li>‘While’ is more convenient than ‘For’ at dynamic data (If we use ‘For’, we have to make another variable. In terms of Memory, this is very wasteful.)<br>
-<img src="./img/Dia_proj1.png" alt="Dia_proj1"></li>
+<li>‘While’ is more convenient than ‘For’ at dynamic data (If we use ‘For’, we have to make another variable. In terms of Memory, this is very wasteful.)</li>
 </ul>
+<p><img src="./img/Dia_proj1.png" alt="Dia_proj1"></p>
 <h1 id="nd-work-1">2nd work</h1>
 <ul>
 <li>Making a Factorial code</li>
 <li>By using variable ‘compare’, we can make more active code.</li>
-<li>Function ‘fact’ should be able to recognize numbers below 1 and return the results. So I added a code to return this result.<br>
-<img src="./img/Dia_proj2.png" alt="Dia_proj2"></li>
+<li>Function ‘fact’ should be able to recognize numbers below 1 and return the results. So I added a code to return this result.</li>
 </ul>
+<p><img src="./img/Dia_proj2.png" alt="Dia_proj2"></p>
 
