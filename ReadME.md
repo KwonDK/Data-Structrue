@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="data-structrue">Data-Structrue</h1>
+<h1 id="data_structrue">Data_Structrue</h1>
 <p>H/W of Data_Structure</p>
 <h1 id="explanation">Explanation</h1>
 <ul>
