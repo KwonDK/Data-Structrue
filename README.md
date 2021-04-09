@@ -4,7 +4,7 @@
 <ul>
 <li>To understand how to work structures in C</li>
 </ul>
-<h1 id="nd-work">1nd work</h1>
+<h1 id="nd-work">1st work</h1>
 <ul>
 <li>Making Linked list by use C</li>
 <li>Using structure and header file to read and understand easily</li>
